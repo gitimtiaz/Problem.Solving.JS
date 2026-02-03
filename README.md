@@ -3,6 +3,8 @@
 This repository contains five beginner-friendly JavaScript problems focused on building core programming fundamentals such as functions, loops, strings, arrays, and basic logic. Each task is implemented in a simple and readable way.
 
 
+
+
 **1. Celsius to Fahrenheit Converter**
 
 This task converts temperature from Celsius to Fahrenheit using a mathematical formula.
