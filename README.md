@@ -4,7 +4,6 @@ This repository contains five beginner-friendly JavaScript problems focused on b
 
 
 
-
 **1. Celsius to Fahrenheit Converter**
 
 This task converts temperature from Celsius to Fahrenheit using a mathematical formula.
